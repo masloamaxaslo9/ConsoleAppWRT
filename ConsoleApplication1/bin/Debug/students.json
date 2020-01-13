@@ -1,0 +1,22 @@
+﻿{
+  "Students": [
+    {
+      "id": 1,
+      "fullName": "Wector9",
+      "course": 4,
+      "grant": false
+    },
+    {
+      "id": 2,
+      "fullName": "Maria Sharapova",
+      "course": 3,
+      "grant": true
+    },
+    {
+      "id": 3,
+      "fullName": "James Bond",
+      "course": 3,
+      "grant": true
+    }
+  ]
+}
