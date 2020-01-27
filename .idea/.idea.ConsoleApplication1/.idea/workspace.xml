@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c3c90ad-081e-4266-9ab0-8bbee9d8ac46" name="Default Changelist" comment="" />
+    <list default="true" id="9c3c90ad-081e-4266-9ab0-8bbee9d8ac46" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication1/bin/Debug/students.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication1/bin/Debug/students.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ConsoleApplication1/bin/Debug/students.json" root0="FORCE_HIGHLIGHTING" />
@@ -15,12 +27,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ConsoleApplication1/students.json" />
-        <option value="$PROJECT_DIR$/ConsoleApplication1/bin/Debug/students.json" />
         <option value="$PROJECT_DIR$/ConsoleApplication1/Program.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApplication1/bin/Debug/students.json" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1WFtYkX8j6xp86CbEPacXv3AzZQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -78,32 +92,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578757220769</updated>
-      <workItem from="1578757223739" duration="19941000" />
+      <workItem from="1578757223739" duration="23658000" />
+      <workItem from="1580045293296" duration="9624000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1876" height="330" key="GridCell.Tab.0.bottom" timestamp="1578838318999">
+    <state x="2334" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580149004543">
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
-    <state width="1876" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1578838318999" />
-    <state width="1876" height="330" key="GridCell.Tab.0.center" timestamp="1578838318999">
+    <state x="2334" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1580149004543" />
+    <state width="1876" height="330" key="GridCell.Tab.0.bottom" timestamp="1580154809000">
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
-    <state width="1876" height="330" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1578838318999" />
-    <state width="1876" height="330" key="GridCell.Tab.0.left" timestamp="1578838318999">
+    <state width="1876" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1580154809000" />
+    <state width="1876" height="330" key="GridCell.Tab.0.center" timestamp="1580154809000">
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
-    <state width="1876" height="330" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1578838318999" />
-    <state width="1876" height="330" key="GridCell.Tab.0.right" timestamp="1578838318999">
+    <state width="1876" height="330" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1580154809000" />
+    <state width="1876" height="330" key="GridCell.Tab.0.left" timestamp="1580154809000">
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
-    <state width="1876" height="330" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1578838318999" />
+    <state width="1876" height="330" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1580154809000" />
+    <state width="1876" height="330" key="GridCell.Tab.0.right" timestamp="1580154809000">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="330" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1580154809000" />
     <state x="2560" y="354" key="WebReferenceSession.Dialog" timestamp="1578779549340">
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>

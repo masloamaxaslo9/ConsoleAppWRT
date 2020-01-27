@@ -1,22 +1,20 @@
-﻿{
-  "Students": [
-    {
-      "id": 1,
-      "fullName": "Wector9",
-      "course": 4,
-      "grant": false
-    },
-    {
-      "id": 2,
-      "fullName": "Maria Sharapova",
-      "course": 3,
-      "grant": true
-    },
-    {
-      "id": 3,
-      "fullName": "James Bond",
-      "course": 3,
-      "grant": true
-    }
-  ]
-}
+[
+  {
+    "fullName": "Денис Жужовський",
+    "course": 3,
+    "grant": false,
+    "id": "4abc7295-11a1-45a4-ad8e-0fabcab471a0"
+  },
+  {
+    "fullName": "Smetana Konska",
+    "course": 4,
+    "grant": false,
+    "id": "8fb184bf-2cb3-4ece-b889-d14410cdabd9"
+  },
+  {
+    "fullName": "Лопата Чупакабривна",
+    "course": 1,
+    "grant": false,
+    "id": "7b716dfb-98b3-49d1-b676-01302f92059d"
+  }
+]
